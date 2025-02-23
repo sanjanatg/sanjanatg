@@ -7,17 +7,18 @@ I’m Sanjana T G, a 2nd-year Information Science student passionate about Data 
 
 ## 👩‍💻 About Me
 
-🔭 Currently learning Data Science & Algorithms
+-> Currently learning Data Science & Algorithms
 
-📚 Skilled in Python, C, Java
+-> Skilled in Python, C, Java
 
-💡 Exploring Machine Learning & AI
+-> Exploring Machine Learning & AI
 
-🛠️ Interested in Open-Source Contributions
+-> Interested in Open-Source Contributions
 
-🚀 Hands-on experience in Data Structures & Algorithms
+-> Hands-on experience in Data Structures & Algorithms
 
-🎯 Always seeking to improve and innovate
+-> Always seeking to improve and innovate
+
 
 ## 💻 Skills & Technologies
 
